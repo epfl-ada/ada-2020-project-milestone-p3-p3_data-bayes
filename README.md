@@ -27,7 +27,7 @@ Visualize these results using matplotlib and seaborn. Try to obtain figures with
 
 ### 6. Proposed timeline
 #### 1st week: 
-Initialise the repository, preprocess the data to obtain the desired features (politeness, planning markers, sentiment analysis). Do data analysis and start working on the matching.
+Initialize the repository, preprocess the data to obtain the desired features (politeness, planning markers, sentiment analysis). Do data analysis and start working on the matching.
 #### 2nd week: 
 Perform matching,  the data comparison (answer the research questions), plot the visualizations, analysis of the results, matching if we deem it necessary.
 #### 3rd week: 
