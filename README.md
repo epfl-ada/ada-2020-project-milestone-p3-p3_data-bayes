@@ -15,7 +15,7 @@ Linguistic cues of actual lies and perceived lies
 #### Data collection: 
 Use the Deception in Diplomacy dataset.
 #### Text processing:
- Use tools such as [NLTK](https://www.nltk.org/), [spaCy](https://spacy.io/),[Convokit](https://convokit.cornell.edu), as well as [other tools out there](https://github.com/xiamx/awesome-sentiment-analysis) (if necessary) to process raw messages and obtain linguistic features (e.g. positive sentiment and politeness).
+ Use tools such as [NLTK](https://www.nltk.org/), [spaCy](https://spacy.io/), [Convokit](https://convokit.cornell.edu), as well as [other tools out there](https://github.com/xiamx/awesome-sentiment-analysis) (if necessary) to process raw messages and obtain linguistic features (e.g. positive sentiment and politeness).
 #### Data analysis:
  Obtain information about the dataset, such as when lies and perceived lies are most likely to happen in terms of year and game score.
 #### Matching:
