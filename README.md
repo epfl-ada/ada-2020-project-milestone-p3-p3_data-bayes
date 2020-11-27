@@ -27,16 +27,16 @@ Visualize these results using matplotlib and seaborn. Try to obtain figures with
 
 ### 6. Proposed timeline
 #### 1st week: 
-Initialize the repository, preprocess the data to obtain the desired features (politeness, planning markers, sentiment analysis). Do data analysis and start working on the matching.
+Initialise the repository, preprocess the data to obtain the desired features (politeness, planning markers, sentiment analysis). Do data analysis and start working on the matching.
 #### 2nd week: 
-Perform matching,  the data comparison (answer the research questions), plot the visualizations, analysis of the results, matching if we deem it necessary.
+Perform matching, then do the data comparison, answer the research questions and visualizations.
 #### 3rd week: 
-Finalization of the notebook, writing of the LaTeX report, making the video
+Finalize of the notebook, write of the LaTeX report, make the video.
 
 ### 7. Organization within the team
 *JB = Jean-Baptiste de la Broise, DC = David Cian, DM = David Mizrahi*  
 
 
 In week 1, JB will handle the text processing, by finding and using good tools to obtain the desired linguistic features. While DM and DC will perform data analysis to learn more about the dataset at hand, which will then be used to find good ways to perform the matching.  
-In week 2, DC will perform the matching, which will then be used by DM (using the obtained linguistic features) to do the data comparison and visualization. JB will think about alternate visualizations of the results.  
+In week 2, DC will perform the matching, which will then be used by DM (using the obtained linguistic features) in order to do the data comparison, answer the research questions and perform the main visualizations. JB will think about alternate visualizations of the results.  
 In week 3, JB will mainly focus on cleaning up the notebook for submission, while DM and DC will mainly focus on the LaTex, although all 3 of us will work on both parts to some extent. Once done, DC will then focus on the video.
