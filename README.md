@@ -29,7 +29,7 @@ Visualize these results using matplotlib and seaborn. Try to obtain figures with
 #### 1st week: 
 Initialise the repository, preprocess the data to obtain the desired features (politeness, planning markers, sentiment analysis). Do data analysis and start working on the matching.
 #### 2nd week: 
-Perform matching, then do the data comparison, answer the research questions and visualizations.
+Perform matching, then do the data comparison, answer the research questions and add visualizations.
 #### 3rd week: 
 Finalize of the notebook, write of the LaTeX report, make the video.
 
