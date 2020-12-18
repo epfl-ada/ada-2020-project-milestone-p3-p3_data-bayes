@@ -42,3 +42,11 @@ Finalize of the notebook, write of the LaTeX report, make the video.
 In week 1, JB will handle the text processing, by finding and using good tools to obtain the desired linguistic features. While DM and DC will perform data analysis to learn more about the dataset at hand, which will then be used to find good ways to perform the matching.  
 In week 2, DC will perform the matching, which will then be used by DM (using the obtained linguistic features) in order to do the data comparison, answer the research questions and perform the main visualizations. JB will think about alternate visualizations of the results.  
 In week 3, JB will mainly focus on cleaning up the notebook for submission, while DM and DC will mainly focus on the LaTex, although all 3 of us will work on both parts to some extent. Once done, DC will then focus on the video.
+
+
+### 8. Contributions
+
+JB and DM focused on pre-processing.
+DC worked on the matching.
+DC and DM worked on the analysis.
+DM and JB wrote the report.
