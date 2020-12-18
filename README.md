@@ -3,6 +3,8 @@
  ### 1. Title
 Linguistic cues of actual lies and perceived lies
 
+Note - please read the notebooks in the following order: `preprocessing`, `data_exploration`, `matching_and_analysis`.
+
 ### 2. Abstract
 “[Linguistic Harbingers of Betrayal](http://vene.ro/betrayal/) ” by Niculae et al. presents several linguistic features consistent with betrayal (i.e. more politeness and less positive sentiment), through analysis of player conversations from the strategy game Diplomacy. We propose to study if these same linguistic features are present in lies, and if they match the linguistic features of perceived lies (i.e. messages that people suspect are lies). To do so, we propose to use the [Deception in Diplomacy dataset](https://sites.google.com/view/qanta/projects/diplomacy) from “It Takes Two to Lie: One to Lie, and One to Listen” by Peskov et al. We plan to process the textual content of each message in order to extract similar linguistic features to the ones used in the Betrayal paper. Then, we will compare the features of messages from different categories, namely, truths, lies, perceived lies (from “It takes Two to Lie”), and messages leading up to a betrayal (from “Harbingers of Betrayal”).
 ### 3. Research questions
